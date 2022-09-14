@@ -1,7 +1,7 @@
 # todo-backend
 A backend server for a todo app.
 
-## Instalação / Installation
+## Installing
 
 ```bash
 git clone https://github.com/mauroue/todo-backend.git && cd todo-backend
